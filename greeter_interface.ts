@@ -11,3 +11,5 @@ function greeter(person: IPerson) {
 const user = { firstName: "Jane", lastName: "Doe" };
 
 document.body.innerHTML = greeter(user);
+
+// Keywords: typescript simple interfaces

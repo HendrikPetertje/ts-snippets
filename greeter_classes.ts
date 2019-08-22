@@ -11,3 +11,5 @@ class Student {
 }
 
 const user = new Student("Jane", "M.", "Doe");
+
+// Keywords: typescript class with constructor
